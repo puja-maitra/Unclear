@@ -1,0 +1,7 @@
+# WEEK 5 AND 6 : IMPLEMENTATION OF MAIN PROJECT
+
+SRGAN, ESRGAN and ResNet was used for super resolution of images. Dataset urban100, with high resolution images was used. The high resolution images were used to crete the low resoltuion images as well and the model was created as a generative adversarial network. The (un)clear model required all previous knowledge of ML learnt so far. The model tries to reduce pixelation in the images and tries to fill in the finer details which are lost after zooming in.
+
+This was the final model of the project.
+
+The project was a good start into ML and I feel like I need to work more on it since shape mismatch errors seem to come up quite often when working with these networks. 
